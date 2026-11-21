@@ -49,6 +49,8 @@ Inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cel
 
 [USEARCH](https://www.drive5.com/usearch/) - [?] - a high-throughput sequencing tool that offers read processing, clustering (ESTs, OTUs, +more), and diversity and taxonomy analysis algorithms in a single package. USEARCH's database search feature is 10-100 times faster than BLAST, and the documentation is thorough and user-friendly. The 32-bit version is free, including for commercial use. A paid 64-bit version is also available.
 
+[vegan](https://vegandevs.github.io/vegan/index.html) - [R] - used for data on community ecology and is also useful for vegetation ecologists. It allows users to calculate alpha and beta diversity, perform ordinations, and provides lots of different methods for data standardization and transformation. 
+
 
 ## Metagenomics (WGS, Shotgun sequencing)
 
